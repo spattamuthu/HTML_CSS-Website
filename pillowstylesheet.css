@@ -1,0 +1,188 @@
+/*header portion style sheet*/
+
+
+.wholediv{display:flex; margin-top:20px;             /*container portion style rule*/
+}
+
+.image{margin-left:100px; margin-top:10px;          /*img portion style rule*/
+}
+
+.linkdiv{display:inline-block;                       /*img portion style rule*/
+     margin-left:170px;
+     font-family:"work sans",sans-serif; 
+    margin-top:10px;   	
+}
+
+.links{ text-decoration:none;                    /*links style rule*/
+         color:#4B3049;
+         padding:20px;
+         font-size:15px;
+}
+.searchicon{margin-left:150px;
+}
+
+.sidehead{margin-left:100px;
+          margin-top:150px;
+		  
+}
+                           /*header portion complete*/
+				   
+				   
+				             /*section1 style sheet*/
+.pillowimage{margin-left:500px;
+             margin-top:-400px;	
+}
+
+.h1{font-family:"work sans",sans-serif;
+	font-size:60px;	
+     color:#4B3049;
+}
+.p{font-family:"work sans",sans-serif;
+   font-size:20px;
+   color:#795376;
+}
+.button{font-family:"work sans",sans-serif;
+	padding:15px;
+	background-color:B08EAD;                          /*button portion style rule*/  
+    border-radius:7px;
+}
+button:hover{background-color:red;}
+                          /*section 1 complete style sheet*/
+
+                        /*section2 style sheet*/
+
+.pic2{margin-left:100px;
+	margin-top:70px;
+}
+.section2{margin-left:800px;
+          margin-top:-400px;		
+}
+.h5{font-family:"work sans",sans-serif;
+	font-size:20px;
+    color:B08EAD;    
+}
+.bold{font-family:"work sans",sans-serif;
+	font-size:40px;
+       color:#4B3049;
+}
+.button2{font-family:"work sans",sans-serif;
+	padding:15px;
+	background-color:B08EAD;                          /*button portion style rule*/  
+    border-radius:7px;
+}
+button:hover{background-color:red;}
+
+                /*section2end style sheet*/
+				
+				/*section3 style sheet*/
+
+
+
+.pic3{margin-left:700px;
+      margin-top:150px;
+}
+.h52{font-family:"work sans",sans-serif;
+	font-size:20px;
+	    color:B08EAD;    
+}
+.bold2{font-family:"work sans",sans-serif;
+	font-size:40px;
+       color:#4B3049;
+}
+.button3{font-family:"work sans",sans-serif;
+	padding:15px;
+	background-color:B08EAD;                          /*button portion style rule*/  
+    border-radius:7px;
+}
+button:hover{background-color:B08EAD;}
+.section3{margin-top:-400px;
+	      margin-left:100px
+}
+                            /*section3 complete style sheet*/
+							
+							/*section4 style sheet*/
+.pic4{margin-left:100px;
+	margin-top:150px;
+}	
+.section4{margin-left:800px;
+          margin-top:-400px;		
+}
+.h53{font-family:"work sans",sans-serif;
+	font-size:20px;
+    color:B08EAD;    
+}
+.bold3{font-family:"work sans",sans-serif;
+	font-size:40px;
+       color:#4B3049;
+}
+.button4{font-family:"work sans",sans-serif;
+	padding:15px;
+	background-color:B08EAD; 	/*button portion style rule*/  
+    border-radius:7px;
+}					
+                          /*section 4 complete style sheet*/
+                     
+					    /* card section */
+.cardwholediv{
+	         margin-top:250px;
+	          background-color:#FAEDF2;
+			  
+}
+.cards{display:flex;
+       padding:70px;
+	   margin-top:200px;
+	   padding:130px;
+	
+}						
+#head1{margin-top:280px;
+	font-family:"work sans",sans-serif;
+	font-size:35px;
+       color:#4B3049;
+	   text-align:center;
+}
+.paragraph{font-family:"work sans",sans-serif;
+           font-size:24px;
+           color:#4B3049;
+           
+}
+.cards2{display:flex;
+       padding:70px;
+	   margin-top:-150px;
+	   margin-left:50px;
+}	
+.paragraph2{font-family:"work sans",sans-serif;
+           font-size:24px;
+           color:#4B3049;
+}
+               /* card section end */
+			   
+			   /* quotes sectiom */
+.quotes{background-color:B08EAD; 	
+}			   
+	.manpicalign{margin-left:600px;
+	             margin-top:100px;
+}
+.description{margin-left:320px;
+             font-family:"work sans",sans-serif;
+           font-size:23;
+		   color:#FFFFFF;
+}
+.author{margin-left:600px;
+        font-family:"work sans",sans-serif;
+        color:#FFFFFF;		
+}		   
+
+
+.details{margin-top:200px;
+         margin-left:80px;
+		 font-family:"work sans",sans-serif;
+           font-size:35;
+		   color:#4B3049;
+}
+.details2{ margin-left:800px;
+           margin-top:-180px;
+          font-family:"work sans",sans-serif;
+		  font-size:17px;
+		   color:#707070;
+	
+}
